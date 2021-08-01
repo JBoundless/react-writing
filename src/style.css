@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  background-color: #70b4eb;
+  color: #023781;
+  text-align: center;
+  display: grid;
+  font-family: Lato, sans-serif;
+}
+
+.App {
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
+}
+
+#textbox {
+  align-items: center;
+  align-content: center;
+  background-color: #EFF2F4;
+  color: black;
+}
+
+button {
+  background-color: #023781;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  width: 150px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  cursor: pointer;
+}
