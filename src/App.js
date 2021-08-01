@@ -26,5 +26,3 @@ const [body, setBody] = useState(null);
     </div>
   );
 }
-
-export default App;
